@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 37d54dff458c4f34cbb7089116fab0eb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Banner
+    100004: Banner2
+    100006: Brazier
+    100008: Chalice
+    100010: Chest
+    100012: Chest_Lid
+    100014: Chest_Ring
+    100016: Gem1
+    100018: Gem2
+    100020: Gem3
+    100022: Gem4
+    100024: Gem5
+    100026: Pile_of_gold
+    100028: Pillow
+    100030: Shield
+    100032: Stand
+    100034: Sword
+    100036: Torch
+    100038: Treasures
+    100040: "\u041A\u0443\u0431.014"
+    100042: "\u041F\u043E\u043B\u0443\u0441\u0444\u0435\u0440\u0430"
+    100044: "\u0421arpet"
+    100046: "\u0421rown"
+    400000: //RootNode
+    400002: Banner
+    400004: Banner2
+    400006: Brazier
+    400008: Chalice
+    400010: Chest
+    400012: Chest_Lid
+    400014: Chest_Ring
+    400016: Gem1
+    400018: Gem2
+    400020: Gem3
+    400022: Gem4
+    400024: Gem5
+    400026: Pile_of_gold
+    400028: Pillow
+    400030: Shield
+    400032: Stand
+    400034: Sword
+    400036: Torch
+    400038: Treasures
+    400040: "\u041A\u0443\u0431.014"
+    400042: "\u041F\u043E\u043B\u0443\u0441\u0444\u0435\u0440\u0430"
+    400044: "\u0421arpet"
+    400046: "\u0421rown"
+    2100000: Pillow
+    2300000: //RootNode
+    2300002: Banner
+    2300004: Banner2
+    2300006: Brazier
+    2300008: Chalice
+    2300010: Chest
+    2300012: Chest_Lid
+    2300014: Chest_Ring
+    2300016: Gem1
+    2300018: Gem2
+    2300020: Gem3
+    2300022: Gem4
+    2300024: Gem5
+    2300026: Pile_of_gold
+    2300028: Pillow
+    2300030: Shield
+    2300032: Stand
+    2300034: Sword
+    2300036: Torch
+    2300038: Treasures
+    2300040: "\u041A\u0443\u0431.014"
+    2300042: "\u0421arpet"
+    2300044: "\u0421rown"
+    3300000: //RootNode
+    3300002: Banner
+    3300004: Banner2
+    3300006: Brazier
+    3300008: Chalice
+    3300010: Chest
+    3300012: Chest_Lid
+    3300014: Chest_Ring
+    3300016: Gem1
+    3300018: Gem2
+    3300020: Gem3
+    3300022: Gem4
+    3300024: Gem5
+    3300026: Pile_of_gold
+    3300028: Pillow
+    3300030: Shield
+    3300032: Stand
+    3300034: Sword
+    3300036: Torch
+    3300038: Treasures
+    3300040: "\u041A\u0443\u0431.014"
+    3300042: "\u0421arpet"
+    3300044: "\u0421rown"
+    4300000: Pillow
+    4300002: Chest_Lid
+    4300004: Chest_Ring
+    4300006: Pile_of_gold
+    4300008: Chalice
+    4300010: Banner2
+    4300012: Banner
+    4300014: "\u041A\u0443\u0431.014"
+    4300016: "\u0421arpet"
+    4300018: Stand
+    4300020: Brazier
+    4300022: Torch
+    4300024: Gem4
+    4300026: Gem5
+    4300028: Gem2
+    4300030: Gem1
+    4300032: Gem3
+    4300034: Chest
+    4300036: Treasures
+    4300038: Shield
+    4300040: Sword
+    4300042: "\u0421rown"
+    10800000: "\u041F\u043E\u043B\u0443\u0441\u0444\u0435\u0440\u0430"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brazier
+    second: {fileID: 2100000, guid: b19bdfeff5b24cf489a345e4f7c0f2a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chalice
+    second: {fileID: 2100000, guid: 3c29708c1ce2f7f43abac106c6188cc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chest
+    second: {fileID: 2100000, guid: f605080f09d85d64fb18b2e8ed5c7eef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crown
+    second: {fileID: 2100000, guid: 24425bda1c2d852478dac617408454c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gem1
+    second: {fileID: 2100000, guid: cdb62031a5f058f4d9f4756d54a15006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gem2
+    second: {fileID: 2100000, guid: d0d04a098a0d3fb4193e3f811d0b454e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gem3
+    second: {fileID: 2100000, guid: 96f6522e3c6328c4982c4f83cec17b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gem4
+    second: {fileID: 2100000, guid: a2f36bff87aa5dd45a330a422e7e73da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gem5
+    second: {fileID: 2100000, guid: 1bdc429115cbc8a46aa2204fc9dd9f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold_of_Chest
+    second: {fileID: 2100000, guid: f605080f09d85d64fb18b2e8ed5c7eef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold_of_Crown
+    second: {fileID: 2100000, guid: 24425bda1c2d852478dac617408454c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5adb0fabf4db5054fb3ef42b9bb0dea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pile_of_gold
+    second: {fileID: 2100000, guid: 6bcb65171d1ecb5499196ff2103bc82a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillow
+    second: {fileID: 2100000, guid: 96fc698873308f943b94127e1b5b50e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Royal
+    second: {fileID: 2100000, guid: d3081e65a2b53d9478d1f6d10695d52e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shield
+    second: {fileID: 2100000, guid: 3071836aba1b19c40a83543fa3864d03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stand
+    second: {fileID: 2100000, guid: eefe47842cf2ffe4a81cb19b88ef7f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sword
+    second: {fileID: 2100000, guid: 8b0457b2561a17b4f9ee9bbae2b46113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torch
+    second: {fileID: 2100000, guid: e101288427e9d4048bbdb942a05d0ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Treasures
+    second: {fileID: 2100000, guid: 237ab0f04db2ec640b2b9ce28380709c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

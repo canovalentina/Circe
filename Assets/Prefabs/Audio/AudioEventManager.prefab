@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1247650395653456230
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1247650395653456231}
+  - component: {fileID: 1247650395653456224}
+  m_Layer: 0
+  m_Name: AudioEventManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1247650395653456231
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1247650395653456230}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1247650395653456224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1247650395653456230}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83dca873f7674fd0bcec61d2a1e04f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventSound3DPrefab: {fileID: 114791402448356372, guid: 6048c46ca27b246328ab49ad0b9d92e3,
+    type: 3}
+  playerLandsAudio: {fileID: 8300000, guid: 833a88f9631f04b4ab83d906606afec2, type: 3}
+  drinkingPotionAudio: {fileID: 8300000, guid: d789fe1bf0856450fbe0ddc23edef9dc, type: 3}
+  throwingPotionAudio: {fileID: 8300000, guid: ee0856d49ea864dd590598fcf6cd0753, type: 3}
+  collectingPlantAudio: {fileID: 8300000, guid: 9c6636a807cf64de983b4fc9f32af937,
+    type: 3}
+  collectingSinglePlantAudio: {fileID: 8300000, guid: 486d0405259d4441b8f240ea30b59091,
+    type: 3}
+  potteryBreakSounds:
+  - {fileID: 8300000, guid: 91fc0d6854adfd54fa34f0a8362210ce, type: 3}
+  - {fileID: 8300000, guid: 3c5758256053e92489ce9b1564c8c79e, type: 3}
+  explosionAudio: {fileID: 8300000, guid: f2644887c51fb4fb3b328f6c3db38d1a, type: 3}
+  swordAudio: {fileID: 8300000, guid: ebc2c28f4022c419f991af58c5072c4e, type: 3}
+  painFemaleAudio: {fileID: 8300000, guid: 22ac2db36e7244c2d81a39709ff6101b, type: 3}
+  painMaleAudio: {fileID: 8300000, guid: 3392280445e2b42869b6f410e6219766, type: 3}
+  deathFemaleAudio: {fileID: 8300000, guid: 1bbebff4f7a4e408cac1a2e033ebe88e, type: 3}
+  deathMaleAudio: {fileID: 8300000, guid: c22ea831b2a2647f7abd1a804af7f553, type: 3}
+  pressInventoryKeyAudio: {fileID: 8300000, guid: 8117902400144405f8ab21c0673f909b,
+    type: 3}
+  pressPauseKeyAudio: {fileID: 8300000, guid: 8117902400144405f8ab21c0673f909b, type: 3}
+  gameOverAudio: {fileID: 8300000, guid: e1ef3be510e5a4a7abd460b9aaec1586, type: 3}
+  gameWonAudio: {fileID: 8300000, guid: 3d3fa575424a147abb494d9a8a2b29db, type: 3}
+  bearGrowlAudio: {fileID: 8300000, guid: 2612a3f5f3d024df1883dc110309afb3, type: 3}
+  pigOinkAudio: {fileID: 8300000, guid: c54d66fcf889e4390a6668f15bc6b5c4, type: 3}
+  wolfHowlAudio: {fileID: 8300000, guid: d6ff18e2b0f8242298ca7693a9a341d0, type: 3}
+  oldManScreamAudio: {fileID: 0}
