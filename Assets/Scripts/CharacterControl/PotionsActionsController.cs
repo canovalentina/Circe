@@ -47,7 +47,6 @@ public class PotionsActionsController : MonoBehaviour
 
     private Rigidbody circe;
     private bool isStandingJump = false;
-    private bool isRunningJump = false;
     public float circeJumpHeight = 1.5f;
 
     public float jumpableGroundNormalMaxAngle = 45f;

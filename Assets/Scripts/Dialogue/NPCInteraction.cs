@@ -31,8 +31,6 @@ public class NPCInteraction : MonoBehaviour
     
     public void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Entered collider");
-        Debug.Log(hasShownDialogue);
         if (!isTalking && !hasShownDialogue && other.gameObject.CompareTag("Player"))
         {
             StartCoroutine(StartDialogueSequence());
